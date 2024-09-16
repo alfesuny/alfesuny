@@ -36,7 +36,7 @@
 <!-- Contact Me -->
 <h2 align="center">Get in Touch</h2>
 <p align="center">
-  <a href="mailto:[alfeysuny@gmail.com]?subject=[Github] Let's Connect">
+  <a href="mailto:[sunyalfe@gmail.com]?subject=[Github] Let's Connect">
     <img alt="Email" src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail">
   </a>
   <a href="[https://www.linkedin.com/in/alfe-suny-3a68b4257]">
