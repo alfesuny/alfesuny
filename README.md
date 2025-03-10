@@ -22,7 +22,7 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow">
 </p> -->
 
-<h2 align="center">My Skills</h3>
+<h2 align="center" style="font-family: 'Courier New', monospace;">My Skills</h3>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -57,8 +57,8 @@
 </ul>
 -->
 
-<!-- Contact Me -->
-<h2 align="center">Get in Touch</h2>
+
+<!-- <h2 align="center">Get in Touch</h2>
 <p align="center">
   <a href="mailto:[sunyalfe@gmail.com]?subject=[Github] Let's Connect">
     <img alt="Email" src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail">
@@ -66,4 +66,25 @@
   <a href="[https://www.linkedin.com/in/alfe-suny-3a68b4257]">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-</p>
+</p> -->
+
+
+<!-- ## Connect with me   -->
+<!-- <h2 align="center">Connect with me</h3> -->
+<h2 align="center" style="font-family: 'Courier New', monospace; ">Connect with me</h2>
+
+<div align="center">
+<a href="mailto:sunyalfe@gmail.com?subject=Github%20Let's%20Connect">
+  <img alt="Email" src="https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white&alt=email" alt="email" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/alfesuny" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/alfe-suny" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/alfesuny" target="_blank">
+  <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
