@@ -1,16 +1,16 @@
 <!-- Title -->
-<h1 align="center">Greetings Everyone, I'm Alfe Suny 👋</h1>
+<h1 align="center">Hey, I'm Alfe Suny 👋</h1>
 
 <!-- Introduction -->
-<p align="center">Machine Learning Engineer and Researcher with a focus on Computer Vision.</p>
+<p align="center">a Data Analyst and Researcher specializing in Computer Vision and Machine Learning.</p>
 
-- 🔭 I’m currently working at **Anwar Technologies**
+- 🔭 I’m currently working at **Augmedix Bangladesh**
 
-- 🌱 I’m currently learning **PyTorch in depth**
+- 🌱 I’m currently learning **PostgreSQL & PyTorch**
 
 - 👯 Open to collaboration on **Computer Vision and NLP projects.**
 
-- 📔 My Recently Published Paper: [Read Here](https://link.springer.com/article/10.1007/s10489-025-06320-9)
+- 📔 My Recently Published Paper: [Read Here](https://www.sciencedirect.com/science/article/pii/S2666154325002212)
 <!-- Badges -->
 <!-- <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3.7%20%7C%203.8-blue">
